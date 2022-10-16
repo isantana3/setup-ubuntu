@@ -36,14 +36,14 @@ code --version
 sudo apt install python3-pip -y
 
 ## Install postman 
-sudo snap install postman -y
+sudo snap install postman
 
 ## Install slack
-sudo snap install slack -y
+sudo snap install slack
 
 ## Install spotfy
-sudo snap install spotify -y
+sudo snap install spotify
 
 ## Install discord
-sudo snap install discord -y
+sudo snap install discord
 
