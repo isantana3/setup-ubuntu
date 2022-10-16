@@ -34,6 +34,8 @@ code --version
 
 ## Install pip3
 sudo apt install python3-pip -y
+pip3 install virtualenv
+
 
 ## Install postman 
 sudo snap install postman
